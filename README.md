@@ -1,1 +1,1 @@
-readme
+String Method 
